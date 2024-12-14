@@ -1,3 +1,5 @@
+Github
+Active Directory 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
@@ -6,9 +8,6 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,40 +16,64 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Active Directory Domain Services
 - PowerShell
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used</h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Install Active Directory and Promote to Domain Controller  
+- Create Domain Admin User and Organizational Units (OUs)  
+- Join Client-1 to the Domain  
+- Create Additional Users and Verify Access  
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+### Part 1: Install Active Directory
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">
+    <img src="https://img.youtube.com/vi/dlEwCL-hk9M/0.jpg" alt="Install Active Directory and Promote to Domain Controller"/>
+  </a>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+*Click the image or  <a href="https://www.youtube.com/watch?v=UUUWOnSBKMk">here</a> to watch a video demo.*
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+---
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+### Part 2: Create a Domain Admin User and Organizational Units (OUs)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">
+    <img src="https://img.youtube.com/vi/MLY4QmCw8rU/0.jpg" alt="Create a Domain Admin User and Organizational Units OUs"/>
+  </a>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+*Click the image or  <a href="https://www.youtube.com/watch?v=5GXOyK23g5k">here</a> to watch a video demo.*
+  
+
+---
+
+### Part 3: Join Client-1 to the Domain & Verify Client-1 is in the Domain
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">
+    <img src="https://img.youtube.com/vi/0I8dOcsaoBM/0.jpg" alt="Join Client 1 to the Domain"/>
+  </a>
 </p>
-<br />
+ *Click the image or  <a href="https://www.youtube.com/watch?v=SJ69Nu5aWxk">here</a> to watch a video demo.*
+
+*Click the image or  <a href="https://www.youtube.com/watch?v=lgZW6ew3LAM">here</a> to watch a video demo.*
+
+---
+
+### Part 4: Create Additional Users and Verify Access
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">
+    <img src="https://img.youtube.com/vi/Rsxgx2KKQYY/0.jpg" alt="Create Additional Users and Verify Access"/>
+  </a>
+</p> 
+*Click the image or  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">here</a> to watch a video demo.*
+
+
+---
+
+### Conclusion
+
+In this tutorial, we successfully deployed and configured an on-premises Active Directory environment within Azure. By following these steps, we were able to install Active Directory, promote it to a Domain Controller, create Domain Admin users, organize the environment with Organizational Units (OUs), and join clients to the domain. The process ensures that Active Directory is fully functional in an Azure environment, enabling secure user management and network resources.
