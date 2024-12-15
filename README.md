@@ -69,7 +69,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
     <img src="https://img.youtube.com/vi/Rsxgx2KKQYY/0.jpg" alt="Create Additional Users and Verify Access"/>
   </a>
 </p> 
-*Click the image or  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">here</a> to watch a video demo.*
+*Click the image or  <a href="https://www.youtube.com/watch?v=NcX3hwT7gc8">here</a> to watch a video demo.*
 
 
 ---
