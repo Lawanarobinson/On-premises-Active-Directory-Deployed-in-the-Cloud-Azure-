@@ -73,3 +73,4 @@ Click <a href="https://www.youtube.com/watch?v=NcX3hwT7gc8">here</a> to watch a 
 ### Conclusion
 
 In this tutorial, we successfully deployed and configured an on-premises Active Directory environment within Azure. By following these steps, we were able to install Active Directory, promote it to a Domain Controller, create Domain Admin users, organize the environment with Organizational Units (OUs), and join clients to the domain. The process ensures that Active Directory is fully functional in an Azure environment, enabling secure user management and network resources.
+
