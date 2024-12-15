@@ -59,7 +59,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
  *Click the image or  <a href="https://www.youtube.com/watch?v=SJ69Nu5aWxk">here</a> to watch a video demo.*
 
-*Click the image or  <a href="https://www.youtube.com/watch?v=lgZW6ew3LAM">here</a> to watch a video demo.*
+ *Click the image or  <a href="https://www.youtube.com/watch?v=lgZW6ew3LAM">here</a> to watch a video demo.*
 
 ---
 
