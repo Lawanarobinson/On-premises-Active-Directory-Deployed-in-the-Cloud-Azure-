@@ -32,44 +32,40 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 1: Install Active Directory
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">
     <img src="https://img.youtube.com/vi/dlEwCL-hk9M/0.jpg" alt="Install Active Directory and Promote to Domain Controller"/>
   </a>
 </p>
-*Click the image or  <a href="https://www.youtube.com/watch?v=UUUWOnSBKMk">here</a> to watch a video demo.*
+Click <a href="https://www.youtube.com/watch?v=UUUWOnSBKMk">here</a> to watch a video demo.
 
 ---
 
 ### Part 2: Create a Domain Admin User and Organizational Units (OUs)
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">
     <img src="https://img.youtube.com/vi/MLY4QmCw8rU/0.jpg" alt="Create a Domain Admin User and Organizational Units OUs"/>
   </a>
 </p>
-*Click the image or  <a href="https://www.youtube.com/watch?v=5GXOyK23g5k">here</a> to watch a video demo.*
+Click  <a href="https://www.youtube.com/watch?v=5GXOyK23g5k">here</a> to watch a video demo.
   
 
 ---
 
 ### Part 3: Join Client-1 to the Domain & Verify Client-1 is in the Domain
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">
     <img src="https://img.youtube.com/vi/0I8dOcsaoBM/0.jpg" alt="Join Client 1 to the Domain"/>
   </a>
 </p>
- *Click the image or  <a href="https://www.youtube.com/watch?v=SJ69Nu5aWxk">here</a> to watch a video demo.*
+ Click <a href="https://www.youtube.com/watch?v=SJ69Nu5aWxk">here</a> to watch a video demo.
 
- *Click the image or  <a href="https://www.youtube.com/watch?v=lgZW6ew3LAM">here</a> to watch a video demo.*
+ Click <a href="https://www.youtube.com/watch?v=lgZW6ew3LAM">here</a> to watch a video demo.
 
 ---
 
 ### Part 4: Create Additional Users and Verify Access
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">
     <img src="https://img.youtube.com/vi/Rsxgx2KKQYY/0.jpg" alt="Create Additional Users and Verify Access"/>
   </a>
 </p> 
-*Click the image or  <a href="https://www.youtube.com/watch?v=NcX3hwT7gc8">here</a> to watch a video demo.*
+Click <a href="https://www.youtube.com/watch?v=NcX3hwT7gc8">here</a> to watch a video demo.
 
 
 ---
